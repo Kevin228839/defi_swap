@@ -1,0 +1,22 @@
+{
+  "name": "defi_pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
